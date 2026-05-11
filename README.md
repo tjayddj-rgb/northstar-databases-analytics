@@ -25,12 +25,9 @@ The project investigates NorthStar's fragmented data environment and uses SQL in
 - PyMongo
 
 ## Notebooks
-
-1. `01_sql_in_r_analysis.ipynb`
-2. `02_r_analytics.ipynb`
-3. `03_python_data_processing.ipynb`
-4. `04_mongodb_development.ipynb`
-5. `05_query_optimisation.ipynb`
+mongodb_development_and_query_optimisation.ipynb
+python_data_processing.ipynb
+sql_in_r_analysis_and_r_analytics.ipynb
 
 ## Notes
 
